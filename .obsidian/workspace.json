@@ -1,0 +1,436 @@
+{
+  "main": {
+    "id": "96b82451db8119c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f1a5d0c9039c521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ff17c2779a95d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Systems/Monetary Systems on Ergo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monetary Systems on Ergo"
+            }
+          },
+          {
+            "id": "c89d3dc8f765aa11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Systems/ChainCash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChainCash"
+            }
+          },
+          {
+            "id": "088da4f5d009db8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Systems/Circles UBI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circles UBI"
+            }
+          },
+          {
+            "id": "013000ad71859f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Systems/Monetary Systems on Ergo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monetary Systems on Ergo"
+            }
+          },
+          {
+            "id": "5e314fe99d7de2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L2 and Sidechains/L2 on Ergo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L2 on Ergo"
+            }
+          },
+          {
+            "id": "394fa20f541314df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ergo Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ergo Book"
+            }
+          },
+          {
+            "id": "1fb5b71803b3cd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ergo Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ergo Book"
+            }
+          },
+          {
+            "id": "ff55b9480b136176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L2 and Sidechains/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "fccfb59e677c4346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ergo Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ergo Book"
+            }
+          },
+          {
+            "id": "0518bac31004524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Ideological Background of Ergo Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideological Background of Ergo Movement"
+            }
+          },
+          {
+            "id": "70f48319db7863eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Ideological Background of Ergo Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideological Background of Ergo Movement"
+            }
+          },
+          {
+            "id": "4511a8da335688a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Ideological Background of Ergo Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideological Background of Ergo Movement"
+            }
+          },
+          {
+            "id": "6146728327174752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Ideological Background of Ergo Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideological Background of Ergo Movement"
+            }
+          },
+          {
+            "id": "3b64e1b913735dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Money Ownership In The Age Of Programmable Money.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Money Ownership In The Age Of Programmable Money"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "5e29ca3323bb1b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615b2063ac62446d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L2 and Sidechains/Merge-Mined Ergo Sidechains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merge-Mined Ergo Sidechains"
+            }
+          },
+          {
+            "id": "567b56e0e1b44729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Ideological Background of Ergo Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideological Background of Ergo Movement"
+            }
+          },
+          {
+            "id": "ce55fdb56da2d2a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "165f7ffd4436e3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideological Background/Money Ownership In The Age Of Programmable Money.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Money Ownership In The Age Of Programmable Money"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14a833ee56b2b7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f85468d9dad7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81be454d5bc17848",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "63b7b5c058de68d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86047c69148c50a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c589eaeb3c56f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f9d9eb525a5466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef2a2e96a9d3231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "L2 and Sidechains/L2 on Ergo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L2 on Ergo"
+            }
+          },
+          {
+            "id": "aac9a2a418e51cee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "L2 and Sidechains/L2 on Ergo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from L2 on Ergo"
+            }
+          },
+          {
+            "id": "e5657574ef73fa52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ec70ddcdcebd685",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "L2 and Sidechains/L2 on Ergo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of L2 on Ergo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "165f7ffd4436e3c4",
+  "lastOpenFiles": [
+    "Monetary Systems/Blockchains And Sustainable Finance.md",
+    "Ideological Background/Money Ownership In The Age Of Programmable Money.md",
+    "Ideological Background/Ideological Background of Ergo Movement.md",
+    "Ideological Background/Basic Design Principles.md",
+    "Monetary Systems/Monetary Systems on Ergo.md",
+    "Monetary Systems/ChainCash.md",
+    "Monetary Systems/Circles UBI.md",
+    "Monetary Systems/LETS.md",
+    "Ergo Book.md",
+    "UTXO/Programmable Money and Ledger.md",
+    "L2 and Sidechains/Merge-Mined Ergo Sidechains.md",
+    "L2 and Sidechains/Trustless Relays.md",
+    "Untitled.md",
+    "L2 and Sidechains/Intro.md",
+    "Applications/Intro.md",
+    "Untitled 1",
+    "Applications",
+    "Use Cases/Intro.md",
+    "Use Cases",
+    "UTXO/UTXO Details.md",
+    "UTXO",
+    "L2 and Sidechains/L2 on Ergo.md",
+    "Ideological Background",
+    "L2 and Sidechains",
+    "Monetary Systems",
+    "create a link.md"
+  ]
+}
