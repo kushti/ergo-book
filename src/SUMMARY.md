@@ -1,0 +1,22 @@
+# Summary
+
+[Introduction](README.md)
+
+- [Alternative Monetary Stack](alt-stack.md)
+- [Historical Background](history/README.md)
+    - [Silver Dollar](history/silver-dollar.md)
+- [Ideological Background of Ergo Movement](ideological/README.md)
+    - [Ergo Manifesto](ideological/ergo-manifesto.md)
+    - [Grassroots Manifesto](ideological/grassroots-manifesto.md)
+    - [Money Ownership In The Age Of Programmable Money](ideological/Money_Ownership_In_The_Age_Of_Programmable_Money.md)
+    - [The Money Game: Rewriting the Rules with Cryptocurrency](ideological/The_Money_Game:_Rewriting_the_Rules_with_Cryptocurrency.md)
+- [Ergo Blockhain - Efficient Neutral Financial Layer](blockchain/README.md)
+    - [Basic Principles](blockchain/principles.md)
+    - [P2P Network](blockchain/p2p.md)
+    - [Sigma Protocols](blockchain/sigma.md)
+    - [Programmable Money](blockchain/programmable-money.md)
+- [ERG Economy - Programmable Digital Gold And Trust-Minimized Derivatives](economy/README.md)
+- [Applications](apps/README.md)
+- [Monetary Systems](monetary-systems/README.md)
+- [Practical Scenarios](use-cases/README.md)
+- [Coda: Alternative Monetary Stack In Details](coda/README.md)
