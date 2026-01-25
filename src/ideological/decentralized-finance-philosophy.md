@@ -1,1 +1,0 @@
-# Decentralized Finance Philosophy

@@ -1,2 +1,8 @@
+# IDE folders
+.idea
+
+# generated HTML book
 book
+
+# QWEN code description. QWEN is used to manage mdbook
 QWEN.md
