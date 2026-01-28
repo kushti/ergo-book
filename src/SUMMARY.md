@@ -1,7 +1,6 @@
 # Summary
 
 [Introduction](README.md)
-
 - [Alternative Monetary Stack](alt-stack.md)
 - [Historical Background](history/README.md)
     - [Silver Dollar](history/silver-dollar.md)
