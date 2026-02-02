@@ -22,6 +22,7 @@
     - [NiPoPoWs](blockchain/nipopows.md)
     - [Sigma Protocols](blockchain/sigma.md)
     - [Programmable Money](blockchain/programmable-money.md)
+    - [Ordering and Input Blocks](blockchain/input-blocks.md)
 - [ERG Economy - Programmable Digital Gold And Trust-Minimized Derivatives](erg/README.md)
     - [Limited Supply And Algorithmic Emission](erg/emission.md)
     - [Demurrage](erg/demurrage.md)
